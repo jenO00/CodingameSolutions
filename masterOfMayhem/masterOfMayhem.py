@@ -1,4 +1,5 @@
-#Created by user snoyes
+#Problem created by user snoyes
+#https://www.codingame.com/training/easy/master-of-mayhem
 import sys
 import math
 
